@@ -109,4 +109,3 @@ LLM Agents ─── Multi-Agent Reasoning ─── RAG & Knowledge Systems
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheer932041235)
-[![Research Blog](https://img.shields.io/badge/Research%20Blog-Open-blue?style=for-the-badge)](https://github.com/cheer932041235/blog-personal)

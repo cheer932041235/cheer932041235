@@ -1,25 +1,29 @@
 # Hey, I'm 疏锦行
 
-<div align="left">
-
 **PhD Candidate in AI & Intelligent Systems** · Researching LLM Agents, Multi-Agent Reasoning, and AI-powered Scientific Discovery
-
-</div>
 
 ---
 
-## Publications
+## 🏆 Profile Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=cheer932041235&theme=onedark&no-frame=true&column=5" alt="Profile Trophies" />
+</p>
+
+---
+
+## 📄 Publications
 
 | Year | Venue | Paper |
 |------|-------|-------|
 | 2026 | **ICIC 2026** (Springer LNCS 16654) | *Look Before You Speak* — Oral Presentation |
 | 2026 | **IEEE SMC 2026** (Submitted #2519) | *MetaCogAgent: Self-Aware Task Delegation in Multi-Agent Frameworks* |
-| 2026 | **IEEE SMC 2026** (Submitted #2549) | *ConflictRAG: Knowledge Conflict Detection and Resolution in RAG Pipelines* |
+| 2026 | **IEEE SMC 2026** (Submitted #2549) | *ConflictRAG: Knowledge Conflict Detection & Resolution in RAG Pipelines* |
 | 2026 | **IEEE SMC 2026** (Submitted #2558) | *CyberCorrect: A Cybernetic Framework for Closed-Loop Self-Correction of LLMs* |
 
 ---
 
-## Research Focus
+## 🎯 Research Focus
 
 ```
 LLM Agents ─── Multi-Agent Reasoning ─── RAG & Knowledge Systems
@@ -33,7 +37,7 @@ LLM Agents ─── Multi-Agent Reasoning ─── RAG & Knowledge Systems
 
 ---
 
-## Open Source Research Tools
+## 🛠️ Open Source Research Tools
 
 > Tools I build to accelerate my own research — shared publicly for reproducibility.
 
@@ -51,49 +55,58 @@ LLM Agents ─── Multi-Agent Reasoning ─── RAG & Knowledge Systems
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 <div>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 <div>
 
-![Tauri](https://img.shields.io/badge/Tauri-7C3AED?style=flat-square&logo=tauri&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-7C3AED?style=for-the-badge&logo=tauri&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheer932041235&theme=transparent&hide_border=true&hide_rank=true&card_width=340)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheer932041235&theme=transparent&hide_border=true&layout=compact&card_width=340)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheer932041235&theme=onedark&hide_border=true&rank_icon=github" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheer932041235&theme=onedark&hide_border=true&layout=compact" height="155" alt="Top Langs" />
+</p>
 
 ---
 
-## Connect
+## 🔥 GitHub Streak
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/cheer932041235)
-[![Research Blog](https://img.shields.io/badge/Research%20Blog-Open-blue?style=flat-square)](https://github.com/cheer932041235/blog-personal)
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=cheer932041235&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheer932041235)
+[![Research Blog](https://img.shields.io/badge/Research%20Blog-Open-blue?style=for-the-badge)](https://github.com/cheer932041235/blog-personal)
